@@ -1,0 +1,2 @@
+-- Sample data SQL
+-- Add your initial data here

@@ -1,0 +1,6 @@
+# Application configuration
+spring:
+  application:
+    name: restaurant-management-system
+  profiles:
+    active: dev
